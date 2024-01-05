@@ -18,7 +18,7 @@ body{
 
 .container{
     width: 290px;
-    height: 485px;
+    height: 470px;
     background-color: hsl(0, 0%, 100%);
     border-radius: 15px;
     display: flex; 
@@ -39,12 +39,14 @@ body{
 .title{
     text-align: center;
     padding: 10px;
+    font-size: 20px
 }
 
 .txt{
     text-align: center;
     padding: 10px;
     color: hsl(216, 3%, 37%);
+    font-size: 15px
 }
 
 footer{
